@@ -6,7 +6,7 @@
   - **Logo Design**  
   Created using Canva
   A clean and modern logo reflecting the brand’s artistic vision and creativity.  
-  ![Arture Logo](https://www.canva.com/design/DAGvXXpzkcg/1sgWwL8VdG_rLj7lZDdxWw/edit?utm_content=DAGvXXpzkcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  ![](https://www.canva.com/design/DAGvXXpzkcg/1sgWwL8VdG_rLj7lZDdxWw/edit?utm_content=DAGvXXpzkcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 # 🛠 My Projects Portfolio
