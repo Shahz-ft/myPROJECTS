@@ -13,7 +13,7 @@
 A curated collection of my **major projects** and **fun builds** — from AI & IoT solutions to small, creative front-end experiments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shahana-beevi12) 
-[![GitHub followers](https://img.shields.io/github/followers/your-Shahz-ft?label=Follow&style=social)](https://github.com/Shahz-ft)
+[![GitHub followers](https://img.shields.io/github/followers/Shahz-ft?label=Follow&style=social)](https://github.com/Shahz-ft)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green?logo=github)](https://github.com/Shahz-ft/portfolio)
 
 ---
@@ -28,7 +28,7 @@ A curated collection of my **major projects** and **fun builds** — from AI & I
 
 ---
 
-## 🎨 Playground Builds  
+## 🎨 Fun Builds 
 _Fun experiments, tiny apps, and creative coding snacks._
 
 | Project | Live Demo | GitHub Repo | Tech Stack |
